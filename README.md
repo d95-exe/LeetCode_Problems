@@ -1,1 +1,1 @@
-Leetcode solutions, language independent. C, Python and Java have been employed. 
+Leetcode solutions, language independent. C, C++, Python and Java have been employed. 
